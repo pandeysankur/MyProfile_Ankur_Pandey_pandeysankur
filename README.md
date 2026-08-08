@@ -1,59 +1,81 @@
-About Me 👋
-Hi, I’m Ankur Pandey, a passionate and detail-oriented QA Engineer with 1.8+ years of experience in Manual and Automation Testing in the banking domain, My journey began in software testing with a strong foundation in functional testing, test automation, and API testing, and has steadily grown into a robust QA career path.
+# 👋 Hi, I'm Ankur Pandey
 
-My educational background in Computer Applications (MCA) and certifications in ISTQB and CP-SAT have helped me build analytical and structured problem-solving skills, which I apply to real-world projects involving both manual and automated test design and execution.
+### Software Test Engineer | QA Engineer | Manual & Automation Testing
 
-I’m currently deepening my expertise in tools like Selenium WebDriver, TestNG, Cucumber BDD, Postman, and RestAssured, while exploring advanced concepts in API testing, framework design, and CI/CD integration using Jenkins and Git.
+I'm a **Software Test Engineer / QA Engineer with 2+ years of experience** in Manual and Automation Testing, with hands-on experience across **Banking, Payments, HRMS, E-commerce, and Security** domains.
 
-My Projects & Tools 🛠️
-🔹 API Test Automation – Postman & RestAssured
-1. Banking API Test Automation (Using Postman & RestAssured)
+I focus on building reliable test strategies, identifying critical defects, validating end-to-end business workflows, and improving test automation using modern QA tools and frameworks.
 
-Automated API testing for bank account management (create, update, delete), transaction validation, and statement generation.
+### 🛠️ Technical Skills
 
-Implemented test assertions for response code, body, schema, and authentication.
+* **Automation:** Playwright, Selenium WebDriver
+* **Languages:** Java, JavaScript, TypeScript, SQL
+* **Testing:** Functional, Regression, Integration, API, End-to-End, Smoke, Sanity, UAT
+* **API Testing:** Postman, REST Assured, SoapUI
+* **Frameworks:** TestNG, JUnit, Cucumber BDD, Page Object Model
+* **Database:** SQL, Oracle
+* **CI/CD & Tools:** Jenkins, Git, GitHub
+* **Performance Testing:** Apache JMeter
+* **Cross-Browser Testing:** BrowserStack, Selenium Grid
+* **Reporting:** Allure, Extent Reports, TestNG Reports
+* **Other:** Maven, Apache POI, Log4j
 
-Used environment variables, collection runners, and data-driven testing.
+### 💼 Current Project
 
-Tech Stack: Postman, Java, RestAssured, JSON, Jenkins
+**HRMS – MyHROrbit**
 
-2. ACTI TIME Automation Project
+Working on a comprehensive HRMS platform covering:
 
-Web-based time tracking tool.
+* Employee Management
+* Attendance & Leave Management
+* Overtime
+* Claims
+* Payroll & Payslips
+* Performance & Probation
+* Reports & Documents
+* HR Inbox
+* Import Data
+* Malaysia statutory payroll validation including **EPF, SOCSO, EIS, PCB and Form E**
 
-Automated login, timesheet entry, and report generation features.
+My responsibilities include **functional testing, regression testing, API validation, database verification, payroll calculation validation, defect reporting, and automation testing**.
 
-Used Cucumber BDD, Page Object Model (POM), and TestNG.
+### 🔐 Previous Project Experience
 
-Web UI Automation – Selenium with Java
-Automated key user flows of banking and time-tracking web apps:
+**Quantum-Safe Security Platform – Qantyx**
 
-Login, user management, transaction validation, and UI elements check.
+Worked on security-focused functionality including security findings, scanning workflows, TLS validation, security scores, quantum readiness, filters, reports, and scan results.
 
-Built POM-based framework using Java + Selenium + TestNG + Maven.
+**Payment Processing Systems**
 
-Incorporated logs using Log4j and handled assertions using JUnit/TestNG.
+Experience testing payment workflows involving:
 
-My Skills 🚀
-Testing Types: Manual, Automation, Functional, Regression, Smoke, Sanity, API, System, UAT
+* Credit/Debit Cards
+* UPI
+* Net Banking
+* Wallets
+* International Payments
+* Payment Gateway Integration
+* Transaction Processing
+* Refunds & Reversals
+* Settlement & Reconciliation
+* API and database validation
 
-Languages: Java, SQL
+### 🚀 Currently Learning & Improving
 
-Tools: Selenium WebDriver, TestNG, JUnit, Cucumber, Maven, Git, Jenkins, Postman, RestAssured, Oracle SQL, Confluence, JIRA, Apache POI
+* Advanced **Playwright Automation**
+* TypeScript
+* API Automation
+* CI/CD with Jenkins
+* Docker
+* Cloud technologies
+* Advanced automation framework design
 
-Frameworks: Cucumber BDD, TestNG, POM
+### 📌 QA Philosophy
 
-Others: Agile, STLC, SDLC, Defect Lifecycle, Version Control
+> **"Quality is not just about finding bugs; it's about preventing them from reaching the user."**
 
-Learning & Certifications 🎓
-✅ ISTQB Certified Tester – Foundation Level (2024)
+I enjoy solving complex testing problems, exploring edge cases, improving automation frameworks, and continuously learning new technologies in the QA and software testing ecosystem.
 
-✅ CP-SAT – Selenium Automation Testing (2023)
+### 📫 Let's Connect
 
-🎓 Master of Computer Applications (MCA) – AISECT University, Hazaribagh (8.9 GPA)
-
-📚 Currently learning AWS IAM and enhancing automation framework design.
-
-Let’s Connect! 🤝
-📧 Email: mailme.pandey19@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/ankur-kumar-pandey-8ab736258/
+I'm open to connecting with **QA Engineers, Automation Testers, SDETs, developers, and technology professionals** to learn, collaborate, and share knowledge.
